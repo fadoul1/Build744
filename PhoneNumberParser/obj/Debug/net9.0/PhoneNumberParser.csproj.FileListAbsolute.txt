@@ -1,0 +1,14 @@
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\bin\Debug\net9.0\PhoneNumberParser.exe
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\bin\Debug\net9.0\PhoneNumberParser.deps.json
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\bin\Debug\net9.0\PhoneNumberParser.runtimeconfig.json
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\bin\Debug\net9.0\PhoneNumberParser.dll
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\bin\Debug\net9.0\PhoneNumberParser.pdb
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\obj\Debug\net9.0\PhoneNumberParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\obj\Debug\net9.0\PhoneNumberParser.AssemblyInfoInputs.cache
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\obj\Debug\net9.0\PhoneNumberParser.AssemblyInfo.cs
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\obj\Debug\net9.0\PhoneNumberParser.csproj.CoreCompileInputs.cache
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\obj\Debug\net9.0\PhoneNumberParser.dll
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\obj\Debug\net9.0\refint\PhoneNumberParser.dll
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\obj\Debug\net9.0\PhoneNumberParser.pdb
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\obj\Debug\net9.0\PhoneNumberParser.genruntimeconfig.cache
+C:\Users\fadou\RiderProjects\Build744\PhoneNumberParser\obj\Debug\net9.0\ref\PhoneNumberParser.dll

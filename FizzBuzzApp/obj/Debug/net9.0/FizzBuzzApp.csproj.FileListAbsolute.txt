@@ -1,0 +1,14 @@
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\bin\Debug\net9.0\FizzBuzzApp.exe
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\bin\Debug\net9.0\FizzBuzzApp.deps.json
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\bin\Debug\net9.0\FizzBuzzApp.runtimeconfig.json
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\bin\Debug\net9.0\FizzBuzzApp.dll
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\bin\Debug\net9.0\FizzBuzzApp.pdb
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.AssemblyInfoInputs.cache
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.AssemblyInfo.cs
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.csproj.CoreCompileInputs.cache
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.dll
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\obj\Debug\net9.0\refint\FizzBuzzApp.dll
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.pdb
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.genruntimeconfig.cache
+C:\Users\fadou\RiderProjects\Build744\FizzBuzzApp\obj\Debug\net9.0\ref\FizzBuzzApp.dll

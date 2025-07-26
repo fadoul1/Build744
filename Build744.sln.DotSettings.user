@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">C:\Users\fadou\AppData\Local\JetBrains\Rider2025.1\resharper-host\temp\Rider\vAny\CoverageData\_Build744.-1912838648\Snapshot\snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3b3ffc2d_002D2a35_002D429c_002D89d1_002D8ac79f5b8a2a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="QuadraticEquationSolverShould #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6902C150-8F3E-4AA8-A2D4-5390AE00DD93::net9.0::QuadraticEquationSolverTests.QuadraticEquationSolverShould&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=75ede5da_002De1e4_002D476a_002D9c7a_002D0abd89422c10/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ReturnTwoRootsWhenDiscriminantIsPositive" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6902C150-8F3E-4AA8-A2D4-5390AE00DD93::net9.0::QuadraticEquationSolverTests.QuadraticEquationSolverShould&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1BE5F134-F289-417C-B9D0-8F4D88E6B244::net9.0::TemperatureConverterTests.TemperatureConverterShould&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=82302d18_002Dc708_002D495b_002Da71f_002D31e4dcad1548/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="QuadraticEquationSolverShould" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6902C150-8F3E-4AA8-A2D4-5390AE00DD93::net9.0::QuadraticEquationSolverTests.QuadraticEquationSolverShould&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	</wpf:ResourceDictionary>

@@ -1,0 +1,95 @@
+﻿.idea/
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Fichiers de build
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+**/bin/
+**/obj/
+
+# Résultats des tests
+TestResults/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Fichiers de cache NuGet
+*.nuget.props
+*.nuget.targets
+.nuget/
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Fichiers temporaires Visual Studio
+.vs/
+*.[Cc]ache
+*.bak
+*.pidb
+*.log
+*.vspscc
+*.vssscc
+.builds
+
+# Fichiers ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Fichiers d'analyse de code
+*.CodeAnalysisLog.xml
+*.lastcodeanalysissucceeded
+
+# Fichiers système d'exploitation
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Dossiers et fichiers temporaires
+[Tt]emp/
+[Tt]mp/
+*.tmp
+*.swp
+*.lock
+*.bak
+
+# Outils spécifiques
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+*.dotCover
+
+# Publication Web
+*.Publish.xml
+*.pubxml
+*.publishproj
+PublishProfiles/
+**/PublishProfiles/
+*.pubxml
+*.pubxml.user
